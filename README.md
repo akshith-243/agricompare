@@ -1,2 +1,2 @@
-# agricompare
+# farmwise
 Smart agricultural-input comparison and procurement platform
